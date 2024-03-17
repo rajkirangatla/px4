@@ -1,0 +1,13 @@
+# Target labels
+ simulation-ignition
+# Source files and their labels
+/home/grk/Desktop/PX4-Autopilot/build/px4_sitl_default/platforms/posix/CMakeFiles/simulation-ignition
+/home/grk/Desktop/PX4-Autopilot/build/px4_sitl_default/platforms/posix/CMakeFiles/simulation-ignition.rule
+/home/grk/Desktop/PX4-Autopilot/build/px4_sitl_default/platforms/posix/CMakeFiles/simulation-ignition-complete.rule
+/home/grk/Desktop/PX4-Autopilot/build/px4_sitl_default/external/Stamp/simulation-ignition/simulation-ignition-install.rule
+/home/grk/Desktop/PX4-Autopilot/build/px4_sitl_default/external/Stamp/simulation-ignition/simulation-ignition-mkdir.rule
+/home/grk/Desktop/PX4-Autopilot/build/px4_sitl_default/external/Stamp/simulation-ignition/simulation-ignition-download.rule
+/home/grk/Desktop/PX4-Autopilot/build/px4_sitl_default/external/Stamp/simulation-ignition/simulation-ignition-update.rule
+/home/grk/Desktop/PX4-Autopilot/build/px4_sitl_default/external/Stamp/simulation-ignition/simulation-ignition-patch.rule
+/home/grk/Desktop/PX4-Autopilot/build/px4_sitl_default/external/Stamp/simulation-ignition/simulation-ignition-configure.rule
+/home/grk/Desktop/PX4-Autopilot/build/px4_sitl_default/external/Stamp/simulation-ignition/simulation-ignition-build.rule

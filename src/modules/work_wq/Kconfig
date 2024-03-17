@@ -1,0 +1,5 @@
+menuconfig MODULES_WORK_WQ
+	bool "work_wq"
+	default n
+	---help---
+		Enable support for work_wq
